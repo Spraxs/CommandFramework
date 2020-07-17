@@ -22,3 +22,5 @@
 ![Command Class Example](https://i.gyazo.com/5a5a742e88466124786318871d9f4029.png)
 
 ![Command: "test debug"](https://i.gyazo.com/95ee7c0a6efe0e090f28f273e91f30b7.png)
+
+![Command: "test print Hello_World"](https://i.gyazo.com/121df317ec4fa03de9ec96b22b76ad51.png)
