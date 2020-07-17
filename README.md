@@ -1,7 +1,7 @@
 # Command Framework
 
 ## Intro:
-This project can turn a class with some methods, parameters and attributes to a working command for your application / game!
+This project can turn a class with some methods, parameters and attributes into a working command for your application / game!
 
 ### Classes:
 
