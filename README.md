@@ -20,3 +20,5 @@
 
 #### A Command Class Example:
 ![Command Class Example](https://i.gyazo.com/5a5a742e88466124786318871d9f4029.png)
+
+![Command: "test debug"](https://i.gyazo.com/95ee7c0a6efe0e090f28f273e91f30b7.png)
