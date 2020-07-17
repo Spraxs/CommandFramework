@@ -17,3 +17,6 @@
  * [MinArgsAttribute.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Attributes/MinArgsAttribute.cs) is an attribute on each command method. This attribute provides what amount the minimal parameters are for this method.
  * [SubAttribute.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Attributes/SubAttribute.cs) is an attribute that makes a normal method a command method.
  * [UsageAttribute.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Attributes/UsageAttribute.cs) is an attribute that can provide usage information about an command method.
+
+#### A Command Class Example:
+![Command Class Example](https://i.gyazo.com/5a5a742e88466124786318871d9f4029.png)
