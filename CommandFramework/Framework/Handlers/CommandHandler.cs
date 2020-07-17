@@ -51,7 +51,7 @@ namespace CommandFramework.Framework.Handlers
                 {
                     args.RemoveAt(0);
 
-                    command.Execute(args.ToArray<string>());
+                    command.Execute(args);
 
                     break;
                 }

@@ -45,9 +45,9 @@ namespace CommandFramework.Framework
 
         }
 
-        public void Execute(string[] args)
+        public void Execute(List<string> args)
         {
-            if (args.Length == 0)
+            if (args.Count == 0)
             {
                 // Show help message
                 Console.WriteLine("Help for command '" + name + "':");
@@ -69,6 +69,7 @@ namespace CommandFramework.Framework
                 {
                     method = subMethod.Key;
                     subInfo = subMethod.Value;
+                    args.RemoveAt(0);
                     break;
                 }
             }
@@ -80,7 +81,7 @@ namespace CommandFramework.Framework
                 return;
             }
 
-            if (args.Length < subInfo.MinArgs)
+            if (args.Count < subInfo.MinArgs)
             {
                 // Throw Min args exception
 
@@ -88,7 +89,7 @@ namespace CommandFramework.Framework
                 return;
             }
 
-            method.Invoke(commandObject, args);
+            method.Invoke(commandObject, args.ToArray<string>());
         }
     }
 }
