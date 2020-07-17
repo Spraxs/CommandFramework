@@ -19,8 +19,8 @@
  * [UsageAttribute.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Attributes/UsageAttribute.cs) is an attribute that can provide usage information about an command method.
 
 #### A Command Class Example:
-![Command Class Example](https://i.gyazo.com/5a5a742e88466124786318871d9f4029.png)
+![Command Class Example](https://i.gyazo.com/3cde9d6eaf52befd77fe286d655bfb1e.png)
 
-![Command: "test debug"](https://i.gyazo.com/95ee7c0a6efe0e090f28f273e91f30b7.png)
+![Command: "test debug"](https://i.gyazo.com/de29a07267641845dbbeed31443c9806.png)
 
-![Command: "test print Hello_World"](https://i.gyazo.com/121df317ec4fa03de9ec96b22b76ad51.png)
+![Command: "test print Hello_World"](https://i.gyazo.com/6768acad43b9971ed388f67482473bd4.png)
