@@ -7,4 +7,4 @@
  * [Command.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Command.cs)
  handles all methods in a command class to be invoked with the right parameters.
  * [CommandHandler.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Handlers/CommandHandler.cs)
- handles initializing the command classes to a [new Command](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Command.cs) object.
+ handles initializing the command classes to a [new Command](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Command.cs) object. It alse handles the player input so the [new Command](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Command.cs) can invoke the right method.
