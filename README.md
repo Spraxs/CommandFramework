@@ -12,8 +12,8 @@
  * [CommandAttributeMissingException.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Exceptions/CommandAttributeMissingException.cs) is an custom exception that indicates that certain attributes are missing.
  
  #### Classes - Attributes:
- * [CommandAttribute.cs] (https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Attributes/CommandAttribute.cs) is the attribute on top of a command class. The string parameter is the name of the command.
- * [DescriptionAttribute.cs] (https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Attributes/CommandAttribute.cs) is an attribute on each command method. This attribute can provide information about what the command does.
+ * [CommandAttribute.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Attributes/CommandAttribute.cs) is the attribute on top of a command class. The string parameter is the name of the command.
+ * [DescriptionAttribute.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Attributes/CommandAttribute.cs) is an attribute on each command method. This attribute can provide information about what the command does.
  * [MinArgsAttribute.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Attributes/MinArgsAttribute.cs) is an attribute on each command method. This attribute provides what amount the minimal parameters are for this method.
  * [SubAttribute.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Attributes/SubAttribute.cs) is an attribute that makes a normal method a command method.
  * [UsageAttribute.cs](https://github.com/Spraxs/CommandFramework/blob/master/CommandFrameworkSolution/CommandFramework/Framework/Attributes/UsageAttribute.cs) is an attribute that can provide usage information about an command method.
