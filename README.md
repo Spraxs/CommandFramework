@@ -21,6 +21,6 @@
 #### A Command Class Example:
 ![Command Class Example](https://i.gyazo.com/3cde9d6eaf52befd77fe286d655bfb1e.png)
 
-![Command: "test debug"](https://i.gyazo.com/de29a07267641845dbbeed31443c9806.png)
+![Command: "test debug"](https://i.gyazo.com/6768acad43b9971ed388f67482473bd4.png)
 
-![Command: "test print Hello_World"](https://i.gyazo.com/6768acad43b9971ed388f67482473bd4.png)
+![Command: "test print Hello_World"](https://i.gyazo.com/de29a07267641845dbbeed31443c9806.png)
